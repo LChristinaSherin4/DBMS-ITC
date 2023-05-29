@@ -1,0 +1,12 @@
+insert into Employees values(ID,"Tom","Male",4000,1);
+insert into Employees values(ID,"Pam","Female",3000,3);
+insert into Employees values(ID,"John","Male",3500,1);
+insert into Employees values(ID,"Sam","Male",4500,2);
+insert into Employees values(ID,"Todd","Male",2800,2);
+insert into Employees values(ID,"Ben","Male",7000,1);
+insert into Employees values(ID,"Sara","Female",4800,3);
+insert into Employees values(ID,"Valerie","Female",5500,1);
+insert into Employees values(ID,"James","Male",6500,NULL);
+insert into Employees values(ID,"Russell","Male",8800,NULL);
+describe Employees;
+select * from Employees;

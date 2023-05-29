@@ -1,0 +1,4 @@
+CREATE PROCEDURE Getall
+AS
+SELECT * FROM Employees;
+GO;
